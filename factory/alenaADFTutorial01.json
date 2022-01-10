@@ -1,0 +1,9 @@
+{
+	"name": "alenaADFTutorial01",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "33cfa468-8cf5-4674-ab03-2df9a6903d07",
+		"tenantId": "649671d2-1c7f-40dc-92e6-4a38f2053f34"
+	}
+}
